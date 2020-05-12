@@ -1,0 +1,15 @@
+html,
+body {background-color: rgb(87, 86, 86);
+     height:100%;
+     color: aliceblue;
+     font-family:
+     
+}
+h1 {font size: 70px;
+    color:pink;}
+h2 {font-size: 36;}
+p{font-size:13px;
+color:aliceblue ;
+line-height: 2;
+}
+
